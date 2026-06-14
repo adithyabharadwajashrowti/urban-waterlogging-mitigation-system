@@ -1,2 +1,21 @@
-# urban-waterlogging-mitigation-system
-Arduino-based automated urban waterlogging mitigation system using ultrasonic sensors and recharge-pit redirection for flood control.
+# Urban Waterlogging Mitigation System
+
+## Problem Statement
+
+## Why This Problem Matters
+
+## Proposed Solution
+
+## How It Works
+
+## Hardware Used
+
+## System Architecture
+
+## Prototype
+
+## Challenges Faced
+
+## Learnings
+
+## Future Improvements
